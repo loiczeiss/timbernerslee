@@ -1,0 +1,162 @@
+body { 
+    background: lightgrey;
+    font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.div1 {border: solid lightgrey;
+    border-width: ;
+    position: absolute;
+    top: 25%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+padding-left: 150px;
+padding-right: 150px;
+background: white;
+border-radius: 12px;
+}
+.imgtim { width: 100px;
+    border-radius: 50px;
+    border: solid grey;
+position: relative;
+top: 50%;
+left: 50%;
+transform: translate(-50%, 15%);}
+
+.title { position: relative;
+    bottom: 45px;
+text-align: center;
+font-size: 30px;
+font-family: 'Open Sans', 'Helvetica Neue', sans-serif;
+color: red;
+}
+.title2 {
+    text-align: center;
+    color: grey;
+    position: relative;
+    bottom: 55px;
+}
+
+.text1 { text-align: center;
+position: relative ;
+bottom: 50px;
+color: grey;}
+.button { 
+    
+    background: red;
+    width: 200px;
+    text-align: center;
+    position: relative;
+    left: 50%;
+    bottom: 25px;
+    transform: translate(-50%);
+   border: solid red;
+   border-radius: 12px;
+   color: white;
+}
+  
+.div2 {
+    border: solid lightgrey;
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:619px;
+padding-left: 150px;
+padding-right: 150px;
+background: white;
+align-items: center;
+border-radius: 12px;
+
+}
+.face{color: grey;
+    width: 20px;
+    position: relative;
+    top: 10px;
+    right: -80px;
+
+}
+.linked { width: 25px;
+    color: grey;
+position: relative;
+left: 500px
+;
+bottom: 20px;}
+.twitter { width: 25px;
+    color: grey;
+position: relative;
+left: 300px;
+bottom: 50px;}
+
+.div3 {border: solid lightgrey;
+    position: absolute;
+    top: 122%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width:619px;
+    height: 1100px;
+padding-left: 150px;
+padding-right: 150px;
+background: white;
+align-items: center;
+border-radius: 12px;}
+
+.hisf {
+    text-align: center;
+    color: grey;
+    font-size: 20px;
+  
+}
+.space { width: 150px;
+position: relative;
+top: 30px;
+right: 30px;}
+
+.tspa {color: grey;
+    font-weight: bold;
+position: relative;
+left: 250px;
+bottom: 200px;
+font-size: 25px;}
+
+.spat { color: grey;
+position: relative;
+left: 150px;
+word-spacing: 5px;
+font-size: 20px;
+bottom: 200px;}
+
+
+.hul { width: 150px;
+position: relative;
+top: 40px;
+right: 60px;}
+.mr{ color: grey;
+    font-weight: bold;
+position: relative;
+left: 250px;
+bottom: 200px;
+font-size: 25px;}
+.mrtext{ color: grey;
+    position: relative;
+    left: 150px;
+    word-spacing: 5px;
+    font-size: 20px;
+    bottom: 200px}
+.alien { 
+    width: 150px;
+    position: relative;
+    top: px;
+    right: 30px;
+}
+.ali {color: grey;
+    font-weight: bold;
+position: relative;
+left: 250px;
+bottom: 250px;
+font-size: 25px;}
+ .alit {color: grey;
+    position: relative;
+    left: 150px;
+    word-spacing: 5px;
+    font-size: 20px;
+    bottom: 250px}
